@@ -32,13 +32,6 @@ If you find these solutions helpful, please show your support by giving this rep
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dhanushnehru?ext=activity)
 
 
-### Gitpod
-
-In the cloud-free development environment where you can directly start coding.
-
-You can use Gitpod in the cloud  [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DhanushNehru/Leetcode/)
-
-
 ### Connect With Me
 
 Let's stay connected! Follow me on social media to stay updated:
